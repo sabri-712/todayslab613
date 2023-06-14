@@ -1,0 +1,30 @@
+@keyframes .wink   0% {
+  transform: translateX(-450px);
+50%{
+}
+100% {
+  transform: translateX(110vw);
+}
+}
+
+.witchsBox{
+  border: solid darkblue;
+  background-color: blueviolet;
+  border-radius: 10em;
+  height: 25em;
+  width: 25em;
+}
+.wink{
+  height: 5em;
+  width: 5em;
+  background-color: transparent;
+  padding: 10em;
+}
+
+
+
+
+
+
+
+
